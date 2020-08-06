@@ -29,7 +29,7 @@ function TeacherForm() {
                 description="O primeiro passo é preencher esse formulário de incrição"
             />
 
-            <main>
+            <main> 
                 <fieldset>
                     <legend>Seus dados</legend>
 
