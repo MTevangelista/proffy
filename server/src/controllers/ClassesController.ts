@@ -14,7 +14,7 @@ export default class ClassesController {
 
         try {
             let classes = await repository.getAll(filters)
-            return res.json({ classes })
+            return res.json(classes)
         } catch (e) {
             return res.status(400).json({
                 error: 'Unexpected error while listing all classes'
