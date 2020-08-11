@@ -26,8 +26,8 @@
   - [Pré-requisitos](#pr%C3%A9-requisitos)
   - [Instalação](#instala%C3%A7%C3%A3o)
   - [Rode a API](#rode-a-api)
-  - [Rode o projeto web](#rode-o-projeto-web)
-  - [Rode o projeto mobile](#rode-o-projeto-mobile)
+  - [Rode o projeto Web](#rode-o-projeto-web)
+  - [Rode o projeto Mobile](#rode-o-projeto-mobile)
 - [Contribuição](#contribui%C3%A7%C3%A3o)
 - [Contato](#contato)
 
@@ -108,7 +108,10 @@ $ yarn install ou npm install
 $ yarn start ou npm run start
 ```
 
-### Rode o projeto mobile
+### Rode o projeto Mobile
+
+🚧 Em construção... 🚧
+
 Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instlado ou um emulador android/ios.
 
 ```bash
